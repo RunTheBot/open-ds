@@ -2,7 +2,7 @@
 <a href="https://github.com/Boomaa23/open-ds/actions?query=branch%3Amaster+event%3Apush"><img src="https://github.com/Boomaa23/open-ds/workflows/Java%20CI/badge.svg" /></a>
 <a href="https://github.com/Boomaa23/open-ds/releases/latest"><img src="https://img.shields.io/github/v/release/Boomaa23/open-ds" /></a>
 
-A reverse-engineered lightweight FRC Driver Station alternative for Windows, Linux, and macOS
+A reverse-engineered lightweight FRC Driver Station alternative for Windows, Linux, sand macOS
 
 Download [here](https://boomaa23.github.io/open-ds/#dl-jar) ([JDK/JRE 8+](https://adoptopenjdk.net/) required) or [here](https://boomaa23.github.io/open-ds/#dl-script) (JRE downloaded automatically).
 
